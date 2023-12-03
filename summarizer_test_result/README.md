@@ -1,0 +1,1 @@
+This folder holds code (ipynb) and results (csv files) from a slightly different experiment evaluating classifier model performance: classifer models were tested using one specific company's data (e.g. Johnson and Johnson) and trained on all other company data. This process was repeated with a different specific testing company each time.

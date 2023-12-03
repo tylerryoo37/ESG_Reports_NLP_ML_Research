@@ -1,0 +1,60 @@
+,,precision,recall,f1-score,support
+EliLilly,0,0.48,0.98,0.64,41
+EliLilly,1,0.93,0.24,0.38,58
+EliLilly,accuracy,,,0.55,99
+EliLilly,macro avg,0.7,0.61,0.51,99
+EliLilly,weighted avg,0.74,0.55,0.49,99
+,,,,,
+Merck,0,0.94,1,0.97,2236
+Merck,1,0.9,0.06,0.11,158
+Merck,accuracy,,,0.94,2394
+Merck,macro avg,0.92,0.53,0.54,2394
+Merck,weighted avg,0.94,0.94,0.91,2394
+,,,,,
+BristolMyersSquibb,0,0.94,1,0.97,1108
+BristolMyersSquibb,1,0.5,0.03,0.06,68
+BristolMyersSquibb,accuracy,,,0.94,1176
+BristolMyersSquibb,macro avg,0.72,0.51,0.51,1176
+BristolMyersSquibb,weighted avg,0.92,0.94,0.92,1176
+,,,,,
+johnsonandjohnson,0,0.97,1,0.98,1861
+johnsonandjohnson,1,0.83,0.14,0.25,69
+johnsonandjohnson,accuracy,,,0.97,1930
+johnsonandjohnson,macro avg,0.9,0.57,0.62,1930
+johnsonandjohnson,weighted avg,0.96,0.97,0.96,1930
+,,,,,
+Abbott,0,0.95,1,0.97,1922
+Abbott,1,1,0.06,0.11,116
+Abbott,accuracy,,,0.95,2038
+Abbott,macro avg,0.97,0.53,0.54,2038
+Abbott,weighted avg,0.95,0.95,0.92,2038
+,,,,,
+Boeing,0,0.9,1,0.95,1019
+Boeing,1,0.86,0.05,0.09,122
+Boeing,accuracy,,,0.9,1141
+Boeing,macro avg,0.88,0.52,0.52,1141
+Boeing,weighted avg,0.89,0.9,0.85,1141
+,,,,,
+UPS,0,0.89,0.99,0.94,69
+UPS,1,0.9,0.53,0.67,17
+UPS,accuracy,,,0.9,86
+UPS,macro avg,0.9,0.76,0.8,86
+UPS,weighted avg,0.9,0.9,0.88,86
+,,,,,
+3M,0,0.94,1,0.97,3008
+3M,1,1,0.03,0.05,199
+3M,accuracy,,,0.94,3207
+3M,macro avg,0.97,0.51,0.51,3207
+3M,weighted avg,0.94,0.94,0.91,3207
+,,,,,
+Walmart,0,0.95,1,0.98,533
+Walmart,1,1,0.1,0.18,30
+Walmart,accuracy,,,0.95,563
+Walmart,macro avg,0.98,0.55,0.58,563
+Walmart,weighted avg,0.95,0.95,0.93,563
+,,,,,
+Tesla,0,0.82,1,0.9,1116
+Tesla,1,1,0.01,0.02,251
+Tesla,accuracy,,,0.82,1367
+Tesla,macro avg,0.91,0.51,0.46,1367
+Tesla,weighted avg,0.85,0.82,0.74,1367
